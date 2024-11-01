@@ -25,7 +25,7 @@ Deberás crear:
 
 ### 1. Configuración de EC2 y Docker
 
-- **Crear** una instancia EC2 en AWS con los permisos necesarios y ejecutar el repositorio proporcionado: `XXXX`.
+- **Crear** una instancia EC2 en AWS con los permisos necesarios y ejecutar el repositorio [tech-test](https://github.com/cloud-craftman/tech-test/edit/main/README.md).
 - **Instalar Docker** en la instancia EC2 para ejecutar la aplicación. Asegúrate de seguir la guía oficial de instalación de Docker para la distribución de Linux elegida.
 - **Recursos de Docker**:
     - Documentación oficial: Guía de instalación de Docker
