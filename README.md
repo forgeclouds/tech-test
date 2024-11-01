@@ -28,7 +28,7 @@ Deberás crear:
 - **Crear** una instancia EC2 en AWS con los permisos necesarios y ejecutar el repositorio [tech-test](https://github.com/cloud-craftman/tech-test/edit/main/README.md).
 - **Instalar Docker** en la instancia EC2 para ejecutar la aplicación. Asegúrate de seguir la guía oficial de instalación de Docker para la distribución de Linux elegida.
 - **Recursos de Docker**:
-    - Documentación oficial: Guía de instalación de Docker
+    - Guía de instalación de Docker: [how-to-install-docker-on-amazon-linux-2](https://www.cyberciti.biz/faq/how-to-install-docker-on-amazon-linux-2/)
 
 ### 2. Infraestructura como Código con Terraform
 
@@ -46,7 +46,7 @@ Deberás crear:
         - Usar AWS Certificate Manager para aprovisionar certificados para conexiones seguras.
 - **Recursos**:
     - AWS: [Documentación de AWS](https://docs.aws.amazon.com/)
-    - Terraform: Documentación de Terraform
+    - Terraform: [Documentación de Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ### 3. Pipeline CI/CD con GitHub Actions
 
